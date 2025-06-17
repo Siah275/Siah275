@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Josiah Serrano
 
-<!--
-**Siah275/Siah275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer from the Philippines with a strong focus on **C#** and **back-end development**. I love creating apps, games, and tools that solve real-world problems, especially those that help make everyday tasks easier.
 
-Here are some ideas to get you started:
+I focus on improving the efficiency of mundane, repetitive tasks for the people around me — automating routines, simplifying workflows, and building tools that save time and effort.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔎 **ScriptureVerseAutomationScript ** 
+
+## 📜 Certificates
+
+
+## 🧰 Skills
+**Languages:** C#, C++, JavaScript, Python
+**Tools:** Visual Studio, Git, Command Line
+**Interests:** Game Dev, App Dev, Full-stack development, Cybersecurity
+
+## 📫 Connect with Me
+- GitHub: [@josiahserrano](https://github.com/Siah275)
+- Email: siahfserrano25@gmail.com
